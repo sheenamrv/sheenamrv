@@ -1,4 +1,4 @@
-### Hello, I'm Sheena!
+# 👋 Hello, I'm Sheena!
 
 🔭 Seeking FALL 2026 CO-OP <br/>
 💻 Software Developer based in Ottawa <br/>
